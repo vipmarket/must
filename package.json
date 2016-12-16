@@ -1,0 +1,23 @@
+{
+  "name": "must",
+  "version": "1.0.0",
+  "description": "must",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipmarket/must.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipmarket/must/issues"
+  },
+  "homepage": "https://github.com/vipmarket/must#readme"
+}
